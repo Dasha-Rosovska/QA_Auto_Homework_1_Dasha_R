@@ -1,0 +1,20 @@
+{ 
+    "name":"Nils",
+    "age": 8,
+    "breed": "Jack Russell",
+    "color": ["White","Brown"],
+    "isIndoor": true,
+    "favoriteFood": ["chicken", "cheese", "sweets"],
+    "health": {
+        "vaccinated": true,
+        "weightKg": 6.5,
+        "allergy": ["dill", "parsley"],
+        "medicalRecords": {
+            "date": "2024-03-09",
+            "description": "Annual check-up",
+            "notes": null
+        }
+    }
+    
+
+}
